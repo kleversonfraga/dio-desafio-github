@@ -1,0 +1,3 @@
+link para download do git : https://git-scm.com/downloadshttps://git-scm.com/downloads
+
+o git bas é um terminal estendido para otimizar o uso do Git
